@@ -38,4 +38,4 @@ These export options will require some manual work on your part and are intended
 
  * **[Web](/gdevelop5/publishing/html5_game_in_a_local_folder):** This option is the same as in the prior category.
  * **[Mobile](/gdevelop5/publishing/android_and_ios_with_cordova):** This option exports your game ready to be used as a Cordova project. You can then use Cordova command line tools to build your game for Android and iOS.
- * **[Desktop](/gdevelop5/publishing/windows-macos-linux-with-electron):** This option exports your game ready to be used as an Electron project. You can then use command line tools to build your game for Windows, macOS, or Linux.
+ * **[Desktop](/gdevelop5/publishing/windows-macos-linux-with-electron):** This option exports your game ready to be used as an Electron project. You can then use command line tools to build your game for Windows, macOS, or Linux.https://agent-6a33fc9caea--incandescent-sprinkles-7c5dbe.netlify.app
